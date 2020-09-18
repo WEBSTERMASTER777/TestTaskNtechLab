@@ -54,3 +54,4 @@ pip install -r requirements.txt
 2. Run `python3 test.py /dirpath` in the root directory
 
 Usage example in the ***How_to_use_model.ipynb***
+For detailed information on training a neural network, see in the ***TrainModel.ipynb ***
