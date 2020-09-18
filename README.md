@@ -4,7 +4,7 @@
 
 ## Task 2:
 
-Clone github repo 
+### Clone github repo 
 
 ```console
 git clone https://github.com/WEBSTERMASTER777/TestTaskNtechLab.git
