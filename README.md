@@ -1,5 +1,9 @@
 # Test task NtecLab
 
+#Task 1:
+
+#Task 2:
+
 Clone github repo 
 
 ```console
@@ -30,4 +34,4 @@ pip install -r requirements.txt
 1. Change paths in the ***script_config.yaml***
 2. Run `python3 test.py /dirpath` in the root directory
 
-Usage example in the ***How to use model.ipynb***
+Usage example in the ***How_to_use_model.ipynb***
