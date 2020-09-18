@@ -1,4 +1,4 @@
-# Test task NtecLab
+# Test task NtechLab
 
 
 ## Clone github repo 
