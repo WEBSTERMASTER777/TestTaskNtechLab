@@ -1,5 +1,12 @@
 # Test task NtecLab
 
+
+## Clone github repo 
+
+```console
+git clone https://github.com/WEBSTERMASTER777/TestTaskNtechLab.git
+```
+
 ## Task 1:
 
 ### An example of running a script
@@ -16,12 +23,6 @@ Max subarray:  [4, 5, 6]
 ***Waring: The input array is set as a string***
 
 ## Task 2:
-
-### Clone github repo 
-
-```console
-git clone https://github.com/WEBSTERMASTER777/TestTaskNtechLab.git
-```
 
 ### Local setup
 
