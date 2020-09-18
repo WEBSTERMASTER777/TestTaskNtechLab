@@ -1,0 +1,6 @@
+classes_names: classes.txt
+
+classifier: classifier.pt
+
+save_json: process_result.json
+
