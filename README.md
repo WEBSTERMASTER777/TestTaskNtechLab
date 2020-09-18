@@ -55,4 +55,4 @@ pip install -r requirements.txt
 
 Usage example in the ***How_to_use_model.ipynb***
 
-### For detailed information on training a neural network, see in the ***TrainModel.ipynb***
+### For detailed information about training a neural network, see in the ***TrainModel.ipynb***
