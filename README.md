@@ -1,8 +1,8 @@
 # Test task NtecLab
 
-# Task 1:
+## Task 1:
 
-# Task 2:
+## Task 2:
 
 Clone github repo 
 
@@ -10,7 +10,7 @@ Clone github repo
 git clone https://github.com/WEBSTERMASTER777/TestTaskNtechLab.git
 ```
 
-## Local setup
+### Local setup
 
 1. Install Python **>=3.6.5 and <3.7**
 2. Create virtual environment:
@@ -29,7 +29,7 @@ python -m venv .env
 pip install -r requirements.txt
 ```
 
-## Inference
+### Inference
 
 1. Change paths in the ***script_config.yaml***
 2. Run `python3 test.py /dirpath` in the root directory
