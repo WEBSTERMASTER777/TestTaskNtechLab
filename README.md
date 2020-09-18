@@ -6,6 +6,11 @@
 ```console
 git clone https://github.com/WEBSTERMASTER777/TestTaskNtechLab.git
 ```
+## Go to the project directory
+
+```console
+cd ./TestTaskNtechLab/
+```
 
 ## Task 1:
 
